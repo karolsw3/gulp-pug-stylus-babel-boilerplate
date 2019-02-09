@@ -1,0 +1,26 @@
+{
+  "name": "gulp-pug-stylus-babel-boilerplate",
+  "version": "1.0.0",
+  "description": "Gulp 4 ready boilerplate with pug, stylus and babel! Includes auto page reload.",
+  "private": false,
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karol Świerczek",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^5.7.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-stylus": "^2.7.0",
+    "jeet": "^7.2.0",
+    "rupture": "^0.6.1"
+  }
+}
