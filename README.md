@@ -12,8 +12,9 @@
 	<img src="https://pbs.twimg.com/profile_images/567000326444556290/-1wfGjNw.png" height="200">
 </span>
 <br><br>
-<b>Gulp 4</b> ready boilerplate with pug, stylus and babel! Includes auto page reload.
+<b>Gulp 4</b> ready boilerplate with pug, stylus and babel with auto page reload.
 
+Build website mockups in seconds! This boilerplate automatically processes pug, stylus and babel and reloads the web page, so that you can concentrate on the development. No need to worry about the configuration, just follow the easy installation steps and you are ready to go:
 ## Installation
 
 1. Install dependencies  
